@@ -15,4 +15,5 @@ IMAGEIO_VIDEO_VISUALISIERUNG.py This script can be used to create a video from h
 
 A exapmle animation (shortened version) is also online in my repository.
 
+I am just in the beginning of my programming. Feel free to comment :D
 More details will follow soon.
