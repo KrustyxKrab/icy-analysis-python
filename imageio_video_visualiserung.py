@@ -56,6 +56,6 @@ def import_folder():
     # Ausgabebestätigung wenn das Video fertig ist (auch sichtbar an Fortschrittsdatei)
     print(f"Video created successfully at: {video_path}")
 
-if __name__ == "__main__": # Python modul um sicher zu stellen, wenn das Script alleine ausgeführt wird (__main__), oder als Teil eines anderen Scriptes (dann Import als __name__)
+if __name__ == "__main__": # Python modul um sicher zu stellen, wenn das Script alleine ausgeführt wird (__main__), oder als Teil eines anderen Scriptes (dann Import als __name__), dass es richtig ausgeführt wird
     ## Funktionsaufruf ##
     import_folder() 
