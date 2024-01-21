@@ -1,4 +1,4 @@
-README File - ICY Analysis python 
+#README File - ICY Analysis python 
 The following codes can be used to analyse and visualise netCDF data of the arctic region
 Link to the used data: https://data.seaice.uni-bremen.de/amsr2/asi_daygrid_swath/n6250/netcdf/
 
