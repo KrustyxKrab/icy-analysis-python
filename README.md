@@ -13,6 +13,6 @@ SEA_ICE_CONCENTRATION_ASMR2_VISUALISATION.py This script is the main script for 
 
 IMAGEIO_VIDEO_VISUALISIERUNG.py This script can be used to create a video from hundreds of png files. The animation looks very nice, I think.
 
-The animation is also online in the same directory
+A exapmle animation (shortened version) is also online in my repository.
 
 More details will follow soon.
