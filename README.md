@@ -5,7 +5,7 @@ The data is collected by the CryoSat-2 satellite and the amsr2 instrument. More 
 
 University of Bremen: https://seaice.uni-bremen.de/start/
 
-DOWNLOAD_DATA_HTTPS.py The code can be used to download from any available server that allows https requests The code was developed for use with NSIDC's Earthdata Databank, but also works for other servers.
+DOWNLOAD_DATA_HTTPS.py The code can be used to download from any available server that allows https requests The code was developed for use with NSIDC's Earthdata Databank, but also works for other servers. Each year of data should be in the same directory and labelled by year. Otherwise the analysis programme will not be able to access the years.
 
 DATA_VIEW.py The code can be used to read the netCDF files and view the variables. The variables also contain the variable "polar-stereographic", which is important for the correct map projection
 
