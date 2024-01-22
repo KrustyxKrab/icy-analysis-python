@@ -5,13 +5,15 @@ The data is collected by the CryoSat-2 satellite and the amsr2 instrument. More 
 
 University of Bremen: https://seaice.uni-bremen.de/start/
 
-DOWNLOAD_DATA_HTTPS.py The code can be used to download from any available server that allows https requests The code was developed for use with NSIDC's Earthdata Databank, but also works for other servers
+DOWNLOAD_DATA_HTTPS.py The code can be used to download from any available server that allows https requests The code was developed for use with NSIDC's Earthdata Databank, but also works for other servers.
 
 DATA_VIEW.py The code can be used to read the netCDF files and view the variables. The variables also contain the variable "polar-stereographic", which is important for the correct map projection
 
 SEA_ICE_CONCENTRATION_ASMR2_VISUALISATION.py This script is the main script for visualisation. The code is with many explanations, but in German. I will change this soon.
 
 IMAGEIO_VIDEO_VISUALISIERUNG.py This script can be used to create a video from hundreds of png files. The animation looks very nice, I think.
+
+Before usage of the scripts, please check wether you have all needed libraries installed.
 
 A exapmle animation (shortened version) is also online in my repository.
 
